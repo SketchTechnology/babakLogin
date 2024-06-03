@@ -1,0 +1,18 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+:root{
+    --main-theme:#04a838;
+    --second-theme:#f4941c;
+
+}
+body{
+    overflow-x: hidden;
+}
+.MainBtn{
+    background-color: var(--second-theme) !important;
+}
+.disabledBtn{
+    
+    background-color:#f4931c71  !important;
+}
